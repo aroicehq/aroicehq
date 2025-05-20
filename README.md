@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🧭 You’re a bit off-track...  
+Looking for [**AROICE-HQ**](https://github.com/AROICE-HQ)? You’re close — just not quite there. 👀
 
-<!--
-**aroicehq/aroicehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The real headquarters — projects, tools, and creative builds — live under the org:  
+👉 [**AROICE-HQ**](https://github.com/AROICE-HQ)
 
-Here are some ideas to get you started:
+Come take a look. Things get interesting over there. 💌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Other Links  
+- 🌍 **Main Site:** [aroice.in](https://aroice.in)  
+- 🧠 **Writings:** [insight.aroice.in](https://insight.aroice.in)  
+- 🎥 **YouTube:** [@Aroice](https://youtube.com/@Aroice)  
+- 🐦 **Twitter/X:** [@realaroice](https://x.com/realaroice)
+- 📧 **E-Mail:** [admin@aroice.in](mailto:admin@aroice.in)
+
+---
+
+### 📌 Note  
+This account (`@aroicehq`) just holds the name. The real action is at [**@AROICE-HQ**](https://github.com/AROICE-HQ), owned by [Aryan-Techie](https://github.com/Aryan-Techie).
